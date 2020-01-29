@@ -2,41 +2,20 @@
   text-align: center;
 }
 .App-header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 4rem;
+
 }
 
 .logo  {
-  width: 30rem;
-  margin-right: 4rem;
+
 }
 
-.logo svg {
-  color: white;
-}
 
 .title {
-  color: darkred;
+
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
-  background-color: darkred;
-  color: white;
-  width: 100vw;
-  height: 5rem;
-  align-items: center;
-  display: flex;
-  justify-content: space-evenly;
 }
-
-footer a {
-  color: white;
-}
-
 
 .Footer {
 }

@@ -5,23 +5,10 @@
     min-width: 300px;
     text-align: left;
 }
-.content:nth-child(1){
-    flex: 1;
-}
 
-.content:nth-child(2){
-    flex: 2;
-}
 
 .main-content {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 4rem;
-    flex-wrap: wrap;
-}
 
-li {
-    list-style: none;
 }
 
 
